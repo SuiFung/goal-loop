@@ -1,0 +1,5 @@
+interface:
+  display_name: "目标实现闭环"
+  short_description: "从目标定义到瓶颈、行动、验证和持续推进"
+  default_prompt: "使用 $goal-loop 帮我把这个目标推进到实际结果，并告诉我当前最重要的下一步。"
+
